@@ -1,8 +1,8 @@
 ---
 title: 011-20 이광주의 코멘트a (과제-01) 
 layout: home
-nav_order: 33
-parent: 011-24 원유민민 (과제-01)
+nav_order: 20
+parent: 011-24 원유민 (과제-01)
 permalink: /asmt-01/011-24/comment-011-20
 ---
 
