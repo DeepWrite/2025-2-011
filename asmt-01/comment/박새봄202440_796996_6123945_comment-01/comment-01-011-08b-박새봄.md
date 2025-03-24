@@ -1,7 +1,7 @@
 ---
 title: 011-08 박새봄의 코멘트b (과제-01) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 011-16 박상하 (과제-01)
 permalink: /asmt-01/011-16/comment-011-08
 ---
