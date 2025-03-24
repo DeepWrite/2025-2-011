@@ -3,7 +3,7 @@ title: 011-22 이재윤의 코멘트b (과제-01)
 layout: home
 nav_order: 22
 parent: 011-10 김예은 (과제-01)
-permalink: /asmt-01/011-10/aomment-011-22
+permalink: /asmt-01/011-10/comment-011-22
 ---
 
 # 과제-01 요약 연습에 대한 코멘트

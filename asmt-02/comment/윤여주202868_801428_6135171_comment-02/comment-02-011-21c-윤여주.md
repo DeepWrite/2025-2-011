@@ -3,7 +3,7 @@ title: 011-18 윤여주의 코멘트a (과제-02)
 layout: home
 nav_order: 18
 parent: 011-06 박현민 (과제-02)
-permalink: /asmt-02/011-06/aomment-011-18
+permalink: /asmt-02/011-06/comment-011-18
 ---
 
 # 과제-02 단문 연습에 대한 코멘트
