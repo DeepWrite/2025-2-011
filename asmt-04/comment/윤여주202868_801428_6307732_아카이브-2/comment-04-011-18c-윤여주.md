@@ -2,7 +2,7 @@
 title: 011-18 윤여주의 코멘트c (과제-04) 
 layout: home
 nav_order: 18
-parent: 011-6 박현민 (과제-04)
+parent: 011-06 박현민 (과제-04)
 permalink: /asmt-04/011-06/comment-011-18
 ---
 
