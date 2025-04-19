@@ -1,7 +1,7 @@
 ---
 title: 011-09 이지호의 코멘트c (과제-03) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 011-25 김한주 (과제-03)
 permalink: /asmt-03/011-25/comment-011-09
 ---

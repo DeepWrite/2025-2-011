@@ -1,7 +1,7 @@
 ---
 title: 011-08 박새봄의 코멘트c (과제-03) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 011-24 원유민 (과제-03)
 permalink: /asmt-03/011-24/comment-011-08
 ---

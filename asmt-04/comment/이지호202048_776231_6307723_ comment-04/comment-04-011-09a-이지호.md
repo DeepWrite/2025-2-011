@@ -1,7 +1,7 @@
 ---
 title: 011-09 이지호의 코멘트a (과제-04) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 011-17 정승연 (과제-04)
 permalink: /asmt-04/011-17/comment-011-09
 ---
