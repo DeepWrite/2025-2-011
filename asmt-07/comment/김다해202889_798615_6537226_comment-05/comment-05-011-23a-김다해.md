@@ -2,7 +2,7 @@
 title: 011-23 김다해의 코멘트a (과제-07) 
 layout: home
 nav_order: 23
-parent: 015-11 김도현 (과제-07)
+parent: 011-11 김도현 (과제-07)
 permalink: /asmt-07/011-11/comment-011-23
 ---
 
