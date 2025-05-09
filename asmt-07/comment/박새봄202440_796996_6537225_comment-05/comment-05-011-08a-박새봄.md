@@ -1,7 +1,7 @@
 ---
 title: 011-08 박새봄의 코멘트a (과제-07) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 011-21 김희태 (과제-07)
 permalink: /asmt-07/011-21/comment-011-08
 ---
