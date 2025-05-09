@@ -1,7 +1,7 @@
 ---
 title: 011-11 김도현의 코멘트a (과제-07) 
 layout: home
-nav_order: 33
+nav_order: 11
 parent: 011-13 김태훈 (과제-07)
 permalink: /asmt-07/011-13/comment-011-11
 ---
