@@ -1,7 +1,7 @@
 ---
 title: 011-09 이지호의 코멘트c (과제-07) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 011-12 허무겸 (과제-07)
 permalink: /asmt-07/011-12/comment-011-09
 ---
