@@ -1,9 +1,9 @@
 ---
 title: 015-11 김도현 (과제-07)
 layout: home
-nav_order: 11
+nav_order: 12
 parent: 과제-07 개인별 논증 구조 작성하기
-permalink: /asmt-07/011-11
+permalink: /asmt-07/011-11/error
 ---
 
 # 과제-07 개인별 논증 구조 작성하기 011-11 김도현

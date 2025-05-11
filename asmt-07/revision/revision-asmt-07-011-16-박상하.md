@@ -1,9 +1,9 @@
 ---
 title: 011-16 박상하 (과제-07)
 layout: home
-nav_order: 16
+nav_order: 17
 parent: 과제-07 개인별 논증 구조 작성하기
-permalink: /asmt-07/011-16
+permalink: /asmt-07/011-16/error
 ---
 
 # 과제-07 개인별 논증 구조 작성하기 011-16 박상하
