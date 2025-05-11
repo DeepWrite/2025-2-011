@@ -1,5 +1,5 @@
 ---
-title: 015-11 김도현 (과제-07)
+title: 015-11 김도현 (과제-07) - error
 layout: home
 nav_order: 12
 parent: 과제-07 개인별 논증 구조 작성하기

@@ -1,5 +1,5 @@
 ---
-title: 011-16 박상하 (과제-07)
+title: 011-16 박상하 (과제-07) - error
 layout: home
 nav_order: 17
 parent: 과제-07 개인별 논증 구조 작성하기
