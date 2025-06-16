@@ -2,7 +2,7 @@
 title: 011-16 박상하의 코멘트b (과제-08) 
 layout: home
 nav_order: 16
-parent: 011-10 홍길북 (과제-08)
+parent: 011-10 김예은 (과제-08)
 permalink: /asmt-08/011-10/comment-011-16
 ---
 
