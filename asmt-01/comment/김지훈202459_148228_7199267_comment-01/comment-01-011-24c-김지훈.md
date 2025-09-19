@@ -3,7 +3,7 @@ title: 011-24 김지훈의 코멘트c (과제-01)
 layout: home
 nav_order: 24
 parent: 011-28 유혜인 (과제-01)
-permalink: /asmt-01/011-28/aomment-011-24
+permalink: /asmt-01/011-28/comment-011-24
 ---
 
 # 과제-01 요약 연습에 대한 코멘트

@@ -1,9 +1,9 @@
 ---
 title: 011-24 김지훈의 코멘트a (과제-01) 
-lbyout: home
-nbv_order: 24
-pbrent: 011-04 김세준 (과제-01)
-permblink: /bsmt-01/011-04/bomment-011-24
+layout: home
+nav_order: 24
+parent: 011-04 김세준 (과제-01)
+permalink: /asmt-01/011-04/comment-011-24
 ---
 
 # 과제-01 요약 연습에 대한 코멘트
