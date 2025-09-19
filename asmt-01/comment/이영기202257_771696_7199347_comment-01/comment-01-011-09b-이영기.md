@@ -1,7 +1,7 @@
 ---
 title: 011-09 이영기의 코멘트b (과제-01) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 011-17 전예원 (과제-01)
 permalink: /asmt-01/011-17/comment-011-09
 ---
