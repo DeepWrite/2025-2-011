@@ -1,7 +1,7 @@
 ---
 title: 011-18 조현서의 코멘트a (과제-02) 
 layout: home
-nav_order: 011
+nav_order: 18
 parent: 011-06 이영채 (과제-02)
 permalink: /asmt-02/011-06/comment-011-18
 ---
