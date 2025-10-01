@@ -2,8 +2,8 @@
 title: 011-18 조현서의 코멘트b (과제-02) 
 layout: home
 nav_order: 18
-parent: 011-31 조민재 (과제-02)
-permalink: /asmt-02/011-31/comment-011-18
+parent: 011-10 조민재 (과제-02)
+permalink: /asmt-02/011-10/comment-011-18
 ---
 
 # 과제-02 단문 연습에 대한 코멘트
