@@ -1,7 +1,7 @@
 ---
 title: 011-07 김사랑의 코멘트a (과제-03) 
 layout: home
-nav_order: 07
+nav_order: 7
 parent: 011-15 김진섬 (과제-03)
 permalink: /asmt-03/011-15/comment-011-07
 ---

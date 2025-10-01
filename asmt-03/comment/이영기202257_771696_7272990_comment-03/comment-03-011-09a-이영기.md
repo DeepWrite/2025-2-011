@@ -1,7 +1,7 @@
 ---
 title: 011-09 이영기의 코멘트a (과제-03) 
 layout: home
-nav_order: 09
+nav_order: 9
 parent: 011-01 최경진 (과제-03)
 permalink: /asmt-03/011-01/comment-011-09
 ---

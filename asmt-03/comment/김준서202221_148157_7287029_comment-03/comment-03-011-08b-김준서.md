@@ -1,7 +1,7 @@
 ---
 title: 011-08 김준서의 코멘트b (과제-03) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 011-20 전성훈 (과제-03)
 permalink: /asmt-03/011-20/comment-011-08
 ---
