@@ -1,7 +1,7 @@
 ---
 title: 011-08 김준서의 코멘트b (과제-04) 
 layout: home
-nav_order: 08
+nav_order: 8
 parent: 011-12 양지안 (과제-04)
 permalink: /asmt-04/011-12/comment-011-08
 ---
