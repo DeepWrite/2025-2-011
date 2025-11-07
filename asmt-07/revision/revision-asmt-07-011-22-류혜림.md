@@ -2,7 +2,7 @@
 title: (개선) 과제-07 개인별 논증 구조 작성하기 011-22 류혜림
 layout: home
 nav_order: 99
-parent: 011-22 홍길동 (과제-07)
+parent: 011-22 류혜림 (과제-07)
 permalink: /asmt-07/011-22/revision
 ---
 
