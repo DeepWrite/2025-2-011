@@ -1,7 +1,7 @@
 ---
 title: 011-07 김사랑의 코멘트b (과제-07) 
 layout: home
-nav_order: 07
+nav_order: 7
 parent: 011-14 서시현 (과제-07)
 permalink: /asmt-07/011-14/comment-011-07
 ---

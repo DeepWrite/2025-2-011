@@ -1,7 +1,7 @@
 ---
 title: 011-07 김사랑의 코멘트a (과제-07) 
 layout: home
-nav_order: 07
+nav_order: 7
 parent: 011-11 김태헌 (과제-07)
 permalink: /asmt-07/011-11/comment-011-07
 ---
