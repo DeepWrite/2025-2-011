@@ -2,8 +2,8 @@
 title: 011-33 정윤서의 코멘트c (과제-08) 
 layout: home
 nav_order: 33
-parent: 011-155 김진섬 (과제-08)
-permalink: /asmt-08/011-155/comment-011-33
+parent: 011-15 김진섬 (과제-08)
+permalink: /asmt-08/011-15/comment-011-33
 ---
 
 # 과제-08 기말과제 초고 작성하기
